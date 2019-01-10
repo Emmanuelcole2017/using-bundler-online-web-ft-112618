@@ -4,5 +4,6 @@ gem "sinatra"
 gem "hashie"
 
 group :development do
-gem "pry"
+gem
+"pry"
 end
